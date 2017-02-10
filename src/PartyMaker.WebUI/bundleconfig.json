@@ -1,0 +1,80 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/@angular/core.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/core/bundles/core.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/common.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/common/bundles/common.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/compiler.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/compiler/bundles/compiler.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/forms.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/forms/bundles/forms.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/http.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/http/bundles/http.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/platform-browser.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/platform-browser/bundles/platform-browser.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/platform-browser-dynamic.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/@angular/router.umd.js",
+    "inputFiles": [
+      "node_modules/@angular/router/bundles/router.umd.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery.js",
+    "inputFiles": [
+      "node_modules/jquery/dist/jquery.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery.signalR.js",
+    "inputFiles": [
+      "node_modules/signalr/jquery.signalR.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/Reflect.js",
+    "inputFiles": [
+      "node_modules/reflect-metadata/Reflect.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/system.src.js",
+    "inputFiles": [
+      "node_modules/systemjs/dist/system.src.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/zone.js",
+    "inputFiles": [
+      "node_modules/zone.js/dist/zone.js"
+    ]
+  }
+]
